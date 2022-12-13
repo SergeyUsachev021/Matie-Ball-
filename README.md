@@ -28,3 +28,30 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_5a633"></div>
+  <div class="tradingview-widget-copyright"><a href="https://ru.tradingview.com/symbols/AMEX-SPY/" rel="noopener" target="_blank"><span class="blue-text">График SPY</span></a> от TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "width": 1000,
+  "height": 1000,
+  "symbol": "AMEX:SPY",
+  "interval": "5",
+  "timezone": "Etc/UTC",
+  "theme": "light",
+  "style": "1",
+  "locale": "ru",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "details": true,
+  "container_id": "tradingview_5a633"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
