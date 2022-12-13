@@ -55,3 +55,5 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+//https://ru.tradingview.com/widget/advanced-chart///
