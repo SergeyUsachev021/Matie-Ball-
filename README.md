@@ -33,3 +33,5 @@
 <!-- TradingView Widget END -->
 
 [https://ru.tradingview.com/widget/advanced-chart](https://ru.tradingview.com/widget/advanced-chart/)
+
+![mermaid-diagram-2022-12-20-151151](https://user-images.githubusercontent.com/114472570/208616327-60591ede-5cdc-45f3-8d5a-e5d5e6e99160.png)
